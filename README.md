@@ -6,12 +6,12 @@
 [![](https://img.shields.io/badge/arXiv-282424?style=for-the-badge&logo=arxiv&logoColor=white)](mailto:matthew@matthewciolino.com)
 
 
-![mrciolino's Stats](https://github-readme-stats.vercel.app/api?username=mrciolino&theme=dark&show_icons=true&hide_border=true&count_private=true)![mrciolino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrciolino&theme=dark&hide_border=true)
+![mrciolino's Stats](https://github-readme-stats.vercel.app/api?username=mrciolino&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
 ### About Me
-- 🔭 I’m currently working on an AI Helicopter Instructor to help train new pilots with real-time Speech to Text, Text to Speech, and LLMs.
+- 🔭 I’m currently working on an AI Helicopter Instructor to help train new pilots with Speech to Text, Text to Speech, and LLMs.
 - 🌱 I’m currently learning advanced techniques in machine learning and deep learning frameworks such as TensorFlow and PyTorch.
 - 👯 Seeking collaborations on interdisciplinary data science projects involving computer vision, NLP, or innovative ML applications.
 - 💬 Ask me about developing ML solutions for real-world problems, especially in computer vision and NLP.
