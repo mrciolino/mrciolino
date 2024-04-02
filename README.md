@@ -2,8 +2,8 @@
 [![](https://img.shields.io/badge/💼Portfolio-6DA55F?&style=for-the-badge)](https://www.matthewciolino.com/)
 [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://www.matthewciolino.com/assets/docs/Matthew_Ciolino_Resume.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrciolino/)
-[![](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://arxiv.org/a/ciolino_m_1.html)
-[![](https://img.shields.io/badge/arXiv-282424?style=for-the-badge&logo=arxiv&logoColor=white)](mailto:matthew@matthewciolino.com)
+[![](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthew@matthewciolino.com)
+[![](https://img.shields.io/badge/arXiv-282424?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/ciolino_m_1.html)
 
 
 ![mrciolino's Stats](https://github-readme-stats.vercel.app/api?username=mrciolino&theme=dark&show_icons=true&hide_border=true&count_private=true)
