@@ -11,7 +11,7 @@
 
 
 ### About Me
-- 🔭 I’m currently working on an AI Helicopter Instructor to help train new pilots with Speech to Text, Text to Speech, and LLMs.
+- 🔭 I’m currently working on an AI Helicopter Instructor to help train new pilots. Using Speech to Text, Text to Speech, and LLMs.
 - 🌱 I’m currently learning advanced techniques in machine learning and deep learning frameworks such as TensorFlow and PyTorch.
 - 👯 Seeking collaborations on interdisciplinary data science projects involving computer vision, NLP, or innovative ML applications.
 - 💬 Ask me about developing ML solutions for real-world problems, especially in computer vision and NLP.
