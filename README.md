@@ -5,11 +5,6 @@
 [![](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthew@matthewciolino.com)
 [![](https://img.shields.io/badge/arXiv-282424?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/ciolino_m_1.html)
 
-
-![mrciolino's Stats](https://github-readme-stats.vercel.app/api?username=mrciolino&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-
-
 ### About Me
 - 🔭 I’m currently working on an AI Helicopter Instructor to help train new pilots. Using Speech to Text, Text to Speech, and LLMs.
 - 🌱 I’m currently learning advanced techniques in machine learning and deep learning frameworks such as TensorFlow and PyTorch.
