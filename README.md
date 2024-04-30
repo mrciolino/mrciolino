@@ -7,7 +7,7 @@
 
 ### About Me
 - 🔭 I’m currently working on an AI Helicopter Instructor to help train new pilots. Using Speech to Text, Text to Speech, and LLMs.
-- 🌱 I’m currently learning advanced techniques in machine learning and deep learning frameworks such as TensorFlow and PyTorch.
+- 🌱 Researching various ways fon creating instruction datasets for fine-tuning LLMs, specifically for LoRA (Low Rank Adaptation) models.
 - 👯 Seeking collaborations on interdisciplinary data science projects involving computer vision, NLP, or innovative ML applications.
 - 💬 Ask me about developing ML solutions for real-world problems, especially in computer vision and NLP.
 - ⚡ Fun fact: Led the design of the first mesh networking commercial electronic device for women's safety during the Soterra project.
