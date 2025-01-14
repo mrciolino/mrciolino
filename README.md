@@ -5,12 +5,12 @@
 [![](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthew@matthewciolino.com)
 [![](https://img.shields.io/badge/arXiv-282424?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/ciolino_m_1.html)
 
-### About Me
-- 🔭 I’m currently working on an AI Helicopter Instructor to help train new pilots. Using Speech to Text, Text to Speech, and LLMs.
-- 🌱 Researching various ways fon creating instruction datasets for fine-tuning LLMs, specifically for LoRA (Low Rank Adaptation) models.
-- 👯 Seeking collaborations on interdisciplinary data science projects involving computer vision, NLP, or innovative ML applications.
-- 💬 Ask me about developing ML solutions for real-world problems, especially in computer vision and NLP.
-- ⚡ Fun fact: Led the design of the first mesh networking commercial electronic device for women's safety during the Soterra project.
+### About Me  
+- 🔭 I’m currently working on an AI Helicopter Instructor to help train new pilots using Speech-to-Text, Text-to-Speech, and LLMs.  
+- 🌱 I’m researching methods to create instructional datasets for fine-tuning LLMs, with a focus on LoRA (Low-Rank Adaptation) models.  
+- 👯 I’m open to collaborations on interdisciplinary data science projects involving computer vision, NLP, or innovative ML applications.  
+- 💬 Feel free to ask me about developing ML solutions for real-world problems, particularly in computer vision and NLP.  
+- ⚡ Fun fact: I led the design of the first mesh networking commercial electronic device for women's safety during the Soterra project.  
 
 ### Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
