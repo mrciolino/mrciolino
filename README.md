@@ -6,11 +6,11 @@
 [![](https://img.shields.io/badge/arXiv-282424?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/ciolino_m_1.html)
 
 ### About Me  
-🔭 I’m building an AI Helicopter Instructor to train pilots using STT, TTS, and LLMs.
-🌱 I'm exploring dataset creation techniques through failure mode analysis.
-👯 I’m open to collaborating on interdisciplinary ML projects in vision, NLP, or innovation.
-💬 Ask me about ML solutions for real-world problems, especially in vision and NLP.
-⚡ Fun fact: I designed the first commercial mesh networking device for women's safety.
+- 🔭 I’m building an AI Helicopter Instructor to train pilots using STT, TTS, and LLMs.
+- 🌱 I'm exploring dataset creation techniques through failure mode analysis.
+- 👯 I’m open to collaborating on interdisciplinary ML projects in vision, NLP, or innovation.
+- 💬 Ask me about ML solutions for real-world problems, especially in vision and NLP.
+- ⚡ Fun fact: I designed the first commercial mesh networking device for women's safety.
 
 ### Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
