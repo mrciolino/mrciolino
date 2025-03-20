@@ -6,11 +6,11 @@
 [![](https://img.shields.io/badge/arXiv-282424?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/ciolino_m_1.html)
 
 ### About Me  
-- 🔭 I’m currently working on an AI Helicopter Instructor to help train new pilots using Speech-to-Text, Text-to-Speech, and LLMs.  
-- 🌱 I’m researching methods to create instructional datasets for fine-tuning LLMs, with a focus on LoRA (Low-Rank Adaptation) models.  
-- 👯 I’m open to collaborations on interdisciplinary data science projects involving computer vision, NLP, or innovative ML applications.  
-- 💬 Feel free to ask me about developing ML solutions for real-world problems, particularly in computer vision and NLP.  
-- ⚡ Fun fact: I led the design of the first mesh networking commercial electronic device for women's safety during the Soterra project.  
+🔭 I’m building an AI Helicopter Instructor to train pilots using STT, TTS, and LLMs.
+🌱 I'm exploring dataset creation techniques through failure mode analysis.
+👯 I’m open to collaborating on interdisciplinary ML projects in vision, NLP, or innovation.
+💬 Ask me about ML solutions for real-world problems, especially in vision and NLP.
+⚡ Fun fact: I designed the first commercial mesh networking device for women's safety.
 
 ### Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
